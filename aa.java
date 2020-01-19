@@ -7,6 +7,7 @@ class Main
 	public static void public static void main(String[] args) 
 	{
 		System.out.println("This is git");
-		System.out.println("hell");		
+		System.out.println("hell");
+		Systme.out.println("yo");		
 	}
 }
